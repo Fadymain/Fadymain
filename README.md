@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adetola </h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **DART**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
